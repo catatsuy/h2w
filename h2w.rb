@@ -1,4 +1,14 @@
 # -*- coding: utf-8 -*-
+
+# h2w.rb
+# web http://www.catatsuy.org/
+# twitter http://twitter.com/catatsuy
+# facebook http://www.facebook.com/catatsuy
+# mail catatsuy@catatsuy.org
+#
+# Copyright 2012, KANEKO Tatsuya
+# Free to use and abuse under the MIT license.
+# http://www.opensource.org/licenses/mit-license.php
 filename = ARGV[0]
 user_file = open(filename)#ユーザーのデータ
 
